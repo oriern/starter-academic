@@ -75,9 +75,9 @@ user_groups:
 ---
 
 
-I am a Ph.D candidate in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](http://cs.biu.ac.il), under the supervision of [Prof. Ido Dagan](https://u.cs.biu.ac.il/~dagan/) and [Prof. Jacob Goldberger](http://www.eng.biu.ac.il/goldbej/). My main research interests are Multi Document Summarization and semantic relations between texts.
+I am a Ph.D candidate in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](https://www1.biu.ac.il/), under the supervision of [Prof. Ido Dagan](https://u.cs.biu.ac.il/~dagan/) and [Prof. Jacob Goldberger](http://www.eng.biu.ac.il/goldbej/). My main research interests are Multi Document Summarization and semantic relations between texts.
 
-Prior to that, I finish my M.Sc. (Magna Cum Lauda) in the [Speech Processing Lab](https://research.biu.ac.il/labs/prof-gannots-lab/), and my B.Sc. (Summa Cum Lauda), both in Electrical Engineering.
+Prior to that, I finished my M.Sc. (Magna Cum Lauda) in the [Speech Processing Lab](https://research.biu.ac.il/labs/prof-gannots-lab/), and my B.Sc. (Summa Cum Lauda), both in Electrical Engineering.
 
 Until recently, I was a Data Scientist at Intel, and beforehand I worked at Mellanox as a firmware engineer.
 

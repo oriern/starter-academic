@@ -74,8 +74,11 @@ user_groups:
 - Visitors
 ---
 
-I a Ph.D. in NLP, focusing on Multi-Document Summarization with Neural Networks. My Ph.D. is under the supervision of Prof. Ido Dagan and Prof. Jacob Goldberger at Bar Ilan University.
 
-Until recently, I was a Data Scientist at Intel and finished my M.Sc. in Speech Enhancement with Deep Learning. Before Intel, I worked at Mellanox as a firmware engineer.
+I am a Ph.D candidate in the [Natural Language Processing Lab](http://u.cs.biu.ac.il/~nlp/) at [Bar-Ilan University](http://cs.biu.ac.il), under the supervision of [Prof. Ido Dagan](https://u.cs.biu.ac.il/~dagan/) and [Prof. Jacob Goldberger](http://www.eng.biu.ac.il/goldbej/). My main research interests are Multi Document Summarization and semantic relations between texts.
+
+Prior to that, I finish my M.Sc. (Magna Cum Lauda) in the [Speech Processing Lab](https://research.biu.ac.il/labs/prof-gannots-lab/), and my B.Sc. (Summa Cum Lauda), both in Electrical Engineering.
+
+Until recently, I was a Data Scientist at Intel, and beforehand I worked at Mellanox as a firmware engineer.
 
 I like good music and I volunteer at ``Paamonim”- an organization promoting financial responsibility.

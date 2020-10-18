@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Teaching"
@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
-  organization_url = ""
+  organization = "edx"
+  organization_url = "https://www.edx.org"
   title = "Logical systems"
   url = ""
-  certificate_url = ""
+  certificate_url = "https://www.edx.org"
   date_start = ""
   date_end = ""
   description = ""
